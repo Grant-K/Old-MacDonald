@@ -22,4 +22,9 @@ public abstract class Animal{
   {
       farmer = newFarmer;
   }
+  
+  public String toString()
+  {
+      return "Farmer: " + farmer + "\n";
+  }
 }

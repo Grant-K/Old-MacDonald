@@ -21,6 +21,6 @@ public class Bearded_Dragon extends Animal
     
     public String toString()
     {
-        return "Pet's Name: " + myPetName + "\nAnimal's Type: " + animalType + "\nAnimal's Sound: " + animalSound;
+        return super.toString() + "Pet's Name: " + myPetName + "\nAnimal's Type: " + animalType + "\nAnimal's Sound: " + animalSound;
     }
 }
