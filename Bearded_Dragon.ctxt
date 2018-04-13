@@ -1,11 +1,10 @@
 #BlueJ class context
-comment0.target=Bearded_Dragon
-comment1.params=petName
-comment1.target=Bearded_Dragon(java.lang.String)
+comment0.params=petName
+comment0.target=Bearded_Dragon(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getType()
 comment2.params=
-comment2.target=java.lang.String\ getType()
+comment2.target=java.lang.String\ getSound()
 comment3.params=
-comment3.target=java.lang.String\ getSound()
-comment4.params=
-comment4.target=java.lang.String\ toString()
-numComments=5
+comment3.target=java.lang.String\ toString()
+numComments=4
